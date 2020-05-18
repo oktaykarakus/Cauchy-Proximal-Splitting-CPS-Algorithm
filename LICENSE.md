@@ -1,3 +1,6 @@
+		      GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
 Copyright (C) Oktay Karakus <o.karakus@bristol.ac.uk> 
 	and Alin Achim <alin.achim@bristol.ac.uk>, 
 	12-05-2020, University of Bristol, UK
