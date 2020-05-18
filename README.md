@@ -1,15 +1,14 @@
 This source code package includes the MATLAB source codes for the Cauchy proximal splitting algorithm.
 
+These Matlab functions implement a proximal splitting method involving a non-convex penalty function based on the heavy-tailed Cauchy distribution. A function for calculating the proximal operator of the Cauchy prior is provided, and two examples are included to illustrate how to perform cost function optimisation with a forward-backward (FB) -based algorithm that implements the corresponding Cauchy proximal splitting (CPS) method. The two signal processing examples include 1D signal denoising in the frequency domain and image de-blurring.
+
 This package includes three MATLAB scripts:
 
-	1) CauchyProx		: The MATLAB function that performs the proximal operator operation for 
-				  the Cauchy penalty function.
+	1) CauchyProx		: The MATLAB function that performs the proximal operator operation for the Cauchy penalty function.
 				  
-	2) CPS_1D_denoising	: An example code for 1D signal denoising via the Cauchy proximal splitting 
-				  algorithm.
+	2) CPS_1D_denoising	: An example code for 1D signal denoising via the Cauchy proximal splitting algorithm.
 				  
-	3) CPS_2D_deblurring	: An example code for 2D image deblurring via the Cauchy proximal splitting 
-				  algorithm.
+	3) CPS_2D_deblurring	: An example code for 2D image deblurring via the Cauchy proximal splitting algorithm.
 				  		
 *****************************************************************************************************************
 LICENSE
@@ -35,8 +34,7 @@ Copyright (C) Oktay Karakus <o.karakus@bristol.ac.uk>
 *****************************************************************************************************************
 REFERENCE
 
-[1] O Karakus, P Mayo, and A Achim. "Convergence Guarantees for 
-     Non-Convex Optimisation with Cauchy-Based Penalties"
+[1] O Karakus, P Mayo, and A Achim. "Convergence Guarantees for Non-Convex Optimisation with Cauchy-Based Penalties"
        arXiv preprint.
 
 https://arxiv.org/abs/2003.04798
