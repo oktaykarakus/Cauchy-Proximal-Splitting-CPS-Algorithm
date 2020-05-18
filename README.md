@@ -28,18 +28,25 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 Copyright (C) Oktay Karakus <o.karakus@bristol.ac.uk> 
+
 		and 
-	      Alin Achim <alin.achim@bristol.ac.uk>, 
+		
+	      Alin Achim <alin.achim@bristol.ac.uk>,
+	      
 	      12-05-2020, University of Bristol, UK
+	      
 *****************************************************************************************************************
 REFERENCE
 
 [1] O Karakus, P Mayo, and A Achim. "Convergence Guarantees for 
      Non-Convex Optimisation with Cauchy-Based Penalties"
+       
        arXiv preprint.
-arXiv link 	: https://arxiv.org/abs/2003.04798
+       
+       arXiv link 	: https://arxiv.org/abs/2003.04798
 
 [2] Achim, A., Karakus, O. (2020): Cauchy Proximal Splitting (CPS). 
+     
      https://doi.org/10.5523/bris.15y437loa26cr2nx8gnn3l4hzi.
      
 *****************************************************************************************************************
