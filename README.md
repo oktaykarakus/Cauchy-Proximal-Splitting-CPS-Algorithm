@@ -41,7 +41,7 @@ REFERENCE
 
 https://arxiv.org/abs/2003.04798
 
-[2] Achim, A., Karakus, O. (2020): Cauchy Proximal Splitting (CPS). 
+[2] O Karakus, A Achim. (2020): Cauchy Proximal Splitting (CPS). 
 	
 https://doi.org/10.5523/bris.15y437loa26cr2nx8gnn3l4hzi
 	
