@@ -39,7 +39,7 @@ REFERENCE
      Non-Convex Optimisation with Cauchy-Based Penalties"
        arXiv preprint.
 
-arXiv link 	: https://arxiv.org/abs/2003.04798
+	https://arxiv.org/abs/2003.04798
 
 [2] Achim, A., Karakus, O. (2020): Cauchy Proximal Splitting (CPS). 
 	
