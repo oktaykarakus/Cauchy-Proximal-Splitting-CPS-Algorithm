@@ -1,13 +1,16 @@
 This source code package includes the MATLAB source codes for the Cauchy proximal splitting algorithm.
 
 This package includes three MATLAB scripts:
+
 	1) CauchyProx		: The MATLAB function that performs the proximal operator operation for 
 				  the Cauchy penalty function.
+				  
 	2) CPS_1D_denoising	: An example code for 1D signal denoising via the Cauchy proximal splitting 
 				  algorithm.
+				  
 	3) CPS_2D_deblurring	: An example code for 2D image deblurring via the Cauchy proximal splitting 
 				  algorithm.
-		
+				  		
 *****************************************************************************************************************
 LICENSE
 
@@ -28,15 +31,18 @@ Copyright (C) Oktay Karakus <o.karakus@bristol.ac.uk>
 		and 
 	      Alin Achim <alin.achim@bristol.ac.uk>, 
 	      12-05-2020, University of Bristol, UK
+	      
 *****************************************************************************************************************
 REFERENCE
 
 [1] O Karakus, P Mayo, and A Achim. "Convergence Guarantees for 
      Non-Convex Optimisation with Cauchy-Based Penalties"
        arXiv preprint.
+
 arXiv link 	: https://arxiv.org/abs/2003.04798
 
 [2] Achim, A., Karakus, O. (2020): Cauchy Proximal Splitting (CPS). 
+	
 	https://doi.org/10.5523/bris.15y437loa26cr2nx8gnn3l4hzi.
 	
 *****************************************************************************************************************
