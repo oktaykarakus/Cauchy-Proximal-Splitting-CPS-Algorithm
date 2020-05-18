@@ -1,4 +1,4 @@
-This source code package includes the MATLAB source codes for the Cauchy proximal splitting algorithm.
+This source code package includes the MATLAB source codes for the Cauchy proximal splitting algorithm.\n\n
 
 This package includes three MATLAB scripts:
 	1) CauchyProx		: The MATLAB function that performs the proximal operator operation for 
