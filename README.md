@@ -35,7 +35,7 @@ Copyright (C) Oktay Karakus <o.karakus@bristol.ac.uk>
 REFERENCE
 
 [1] O Karakus, P Mayo, and A Achim. "Convergence Guarantees for Non-Convex Optimisation with Cauchy-Based Penalties"
-       arXiv preprint.
+       IEEE Transactions on Signal Processing 68 (2020): 6159-6170.
 
 https://arxiv.org/abs/2003.04798
 
